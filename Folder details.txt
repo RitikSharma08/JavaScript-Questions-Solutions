@@ -1,0 +1,36 @@
+Here is a collection of 100 JavaScript question, divided into group of 10, based on topics 1-8 ,with increasing complexity.
+
+1. Basic Console Usage (10 Question )
+   1. Log your name name and faurite hobby to the console.
+   2. Perform and log the result of  45 * 2 - 10.
+   3. Use console.log() to display the current Year.
+   4. Create two variable for first and last name . 
+      Concatenate and log them.
+   5. Track the value of a variable by logging it before and after updating.
+
+   6.Use console.error() to simulate an error message.
+
+   7. Log the square of the number 12 to the console.
+
+   8. Print the type of a variable holding the value true.
+
+   9. Create a variable holding your age and log whether it's greater than 18.
+
+   10. Log the result of 100 /0 and observe output.
+
+
+
+2. Variables and Data types (10 Question)
+   11. Declare a variable using let and log its value.
+
+   12. Create a constant to store the value of PI and log it.
+    Ans:     const pi= Math.PI;
+             console.log(pi);
+
+   13.  Reassign a value to a variable declared with let and log the rsult.
+    Ans:     
+
+   14. Check the type of null and log it.
+   Ans:
+
+   15. Crete a variable with a number as a string (e.g, "25" and log its type.)
